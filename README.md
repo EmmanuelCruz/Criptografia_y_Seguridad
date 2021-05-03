@@ -1,4 +1,4 @@
-### Criptografía y seguridad
+# Criptografía y seguridad
 ## Emmanuel Cruz Hernández
 ## Luis Eduardo Martinez Hernández
 ## María Belén Ticona Oquendo
