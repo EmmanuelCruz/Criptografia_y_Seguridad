@@ -1,0 +1,221 @@
+A: 4
+B: 1
+C: 0
+D: 0
+E: 1
+F: 0
+G: 1
+H: 1
+I: 10
+J: 0
+K: 2
+L: 0
+M: 7
+N: 0
+Ñ: 0
+O: 1
+P: 2
+Q: 1
+R: 0
+S: 1
+T: 1
+U: 0
+V: 1
+W: 1
+X: 2
+Y: 2
+Z: 1
+LA MÁS REPETIDA EN COLUMNA 1: I (10), M (7)
+
+A: 1
+B: 5
+C: 1
+D: 1
+E: 0
+F: 1
+G: 1
+H: 0
+I: 3
+J: 0
+K: 0
+L: 3
+M: 5
+N: 1
+Ñ: 0
+O: 0
+P: 2
+Q: 1
+R: 0
+S: 0
+T: 0
+U: 8
+V: 0
+W: 1
+X: 0
+Y: 3
+Z: 3
+LAS MÁS REPETIDAS EN COLUMNA 2: U (8), B (5), M (5)
+
+A: 0
+B: 0
+C: 0
+D: 1
+E: 0
+F: 3
+G: 0
+H: 1
+I: 1
+J: 1
+K: 0
+L: 0
+M: 1
+N: 6
+Ñ: 1
+O: 2
+P: 0
+Q: 6
+R: 4
+S: 0
+T: 2
+U: 3
+V: 1
+W: 0
+X: 3
+Y: 2
+Z: 2
+LAS MÁS REPETIDAS EN COLUMNA 3: Q (6), N (6)
+
+A: 4
+B: 0
+C: 1
+D: 1
+E: 3
+F: 3
+G: 2
+H: 1
+I: 3
+J: 2
+K: 0
+L: 2
+M: 0
+N: 5
+Ñ: 0
+O: 1
+P: 0
+Q: 3
+R: 3
+S: 1
+T: 1
+U: 1
+V: 0
+W: 0
+X: 1
+Y: 1
+Z: 0
+LAS MÁS REPETIDAS EN COLUMNA 4: N (5), A (4)
+
+A: 1
+B: 1
+C: 1
+D: 1
+E: 5
+F: 2
+G: 2
+H: 3
+I: 2
+J: 0
+K: 0
+L: 0
+M: 1
+N: 4
+Ñ: 2
+O: 4
+P: 0
+Q: 1
+R: 2
+S: 2
+T: 3
+U: 1
+V: 1
+W: 0
+X: 0
+Y: 0
+Z: 0
+LAS MÁS REPETIDAS EN COLUMNA 5: E (5), N (4), O (4)
+
+A: 0
+B: 2
+C: 0
+D: 1
+E: 3
+F: 5
+G: 1
+H: 1
+I: 1
+J: 0
+K: 0
+L: 2
+M: 0
+N: 6
+Ñ: 1
+O: 2
+P: 0
+Q: 2
+R: 0
+S: 0
+T: 3
+U: 1
+V: 1
+W: 1
+X: 6
+Y: 0
+Z: 0
+LAS MÁS REPETIDAS EN COLUMNA 6: N (6), X (6), F (5)
+
+A: 0
+B: 1
+C: 0
+D: 0
+E: 1
+F: 1
+G: 0
+H: 0
+I: 3
+J: 2
+K: 2
+L: 1
+M: 8
+N: 1
+Ñ: 1
+O: 1
+P: 2
+Q: 1
+R: 1
+S: 1
+T: 1
+U: 0
+V: 4
+W: 4
+X: 2
+Y: 1
+Z: 0
+LA MÁS REPETIDAS EN COLUMNA 7: M (8), V (4), W (4)
+
+
+LAS MÁS REPETIDAS EN COLUMNA 1: I (10), M (7)
+LAS MÁS REPETIDAS EN COLUMNA 2: U (8), B (5), M (5)
+LAS MÁS REPETIDAS EN COLUMNA 3: Q (6), N (6)
+LAS MÁS REPETIDAS EN COLUMNA 4: N (5), A (4)
+LAS MÁS REPETIDAS EN COLUMNA 5: E (5), N (4), O (4)
+LAS MÁS REPETIDAS EN COLUMNA 6: N (6), X (6), F (5)
+LAS MÁS REPETIDAS EN COLUMNA 7: M (8), V (4), W (4)
+
+E, I
+Q, W, I
+N, J
+J, V
+A, J, L
+J, T, B
+I, R, S
+
+EQNJAJI
